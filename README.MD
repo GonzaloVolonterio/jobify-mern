@@ -30,7 +30,3 @@ https://github.com/GonzaloVolonterio/jobify-mern
 ```
 npm install
 ```
-
-```
-npm start
-```
