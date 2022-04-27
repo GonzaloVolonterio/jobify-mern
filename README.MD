@@ -22,7 +22,8 @@ https://jobify-mern-mern.herokuapp.com/
 ### Clone repo 🔧
 
 ```
-git clone https://github.com/GonzaloVolonterio/catalogoderecetas
+https://github.com/GonzaloVolonterio/jobify-mern
+
 ```
 ### Install🔧
 
