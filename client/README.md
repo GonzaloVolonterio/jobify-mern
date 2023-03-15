@@ -11,7 +11,7 @@ React Context
 NodeJS
 Express
 MongoDB
-Heroku
+Render
 
 ```
 ### Live
