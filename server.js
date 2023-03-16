@@ -1,7 +1,8 @@
 import express from 'express'
 const app = express()
 import dotenv from 'dotenv'
-dotenv.config().parsed
+dotenv.config()
+dot.config().parsed
 import 'express-async-errors'
 import morgan from 'morgan'
 
