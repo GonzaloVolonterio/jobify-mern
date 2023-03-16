@@ -50,7 +50,6 @@ app.use('/api/v1/jobs', authenticateUser, jobsRouter)
 
 app.use(notFoundMiddleware)
 app.use(errorHandlerMiddleware)
-require('dotenv').config();
 
 const port = process.env.PORT || 5000
 
