@@ -1,9 +1,9 @@
 import express from 'express'
-const app = express()
+dot.config().parsed;
+const app = express();
 import dotenv from 'dotenv'
 import dot from 'dotenv'
-dotenv.config()
-dot.config().parsed
+dotenv.config();
 import 'express-async-errors'
 import morgan from 'morgan'
 
