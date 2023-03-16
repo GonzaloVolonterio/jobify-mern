@@ -1,6 +1,6 @@
 import express from 'express'
 import dot from 'dotenv'
-//import dotenv from 'dotenv'
+import dotenv from 'dotenv'
 import 'express-async-errors'
 import morgan from 'morgan'
 const app = express()
