@@ -1,6 +1,7 @@
 import express from 'express'
 const app = express()
 import dotenv from 'dotenv'
+import dot from 'dotenv'
 dotenv.config()
 dot.config().parsed
 import 'express-async-errors'
