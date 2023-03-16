@@ -1,11 +1,12 @@
 import express from 'express'
-dot.config().parsed;
-const app = express();
-import dotenv from 'dotenv'
 import dot from 'dotenv'
-dotenv.config();
+import dotenv from 'dotenv'
 import 'express-async-errors'
 import morgan from 'morgan'
+const app = express()
+dot.config().parsed
+dotenv.config()
+
 
 import { dirname } from 'path'
 import { fileURLToPath } from 'url'
