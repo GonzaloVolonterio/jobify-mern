@@ -17,13 +17,13 @@ Render
 ### Live
 
 ```
-https://jobify-mern-mern.herokuapp.com/
+
 
 ```
 ### Clone repo 🔧
 
 ```
-https://github.com/GonzaloVolonterio/jobify-mern
+
 
 ```
 ### Install🔧
