@@ -11,23 +11,25 @@ React Context
 NodeJS
 Express
 MongoDB
-Heroku
+OnRender
 
 ```
 ### Live
 
 ```
-
+https://jobifymern.onrender.com/landing
 
 ```
 ### Clone repo 🔧
 
 ```
-
+https://github.com/GonzaloVolonterio/jobify-mern
 
 ```
 ### Install🔧
 
 ```
-npm install
+npm install 
+
+npm start 
 ```
