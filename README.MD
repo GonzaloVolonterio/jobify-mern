@@ -17,7 +17,7 @@ OnRender
 ### Live
 
 ```
-https://jobifymern.onrender.com/landing
+https://jobifymern.onrender.com
 
 ```
 ### Clone repo 🔧
