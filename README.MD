@@ -33,3 +33,6 @@ npm install
 
 npm start 
 ```
+
+![5](https://user-images.githubusercontent.com/64506662/234716146-33f87f81-ced4-4c79-a81c-ce1b2f55fbc7.png)
+
